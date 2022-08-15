@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "47904499781",
+    "firebase_url": "https://chatapplication-1d2a0-default-rtdb.firebaseio.com",
+    "project_id": "chatapplication-1d2a0",
+    "storage_bucket": "chatapplication-1d2a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47904499781:android:b87dcfb3a415259f221b2c",
+        "android_client_info": {
+          "package_name": "com.umitgulbak.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47904499781-qmdcb8riue58rq47s9fhq2f4jstu1mc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwyHgtFt-5KpXxkRtbUkgLVEvqIevpw3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47904499781-qmdcb8riue58rq47s9fhq2f4jstu1mc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
